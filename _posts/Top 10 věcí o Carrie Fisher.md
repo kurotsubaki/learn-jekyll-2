@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: _post
 title:  "Top 10 věcí o Carrie Fisher"
 date:   2017-04-02
 tags: 
