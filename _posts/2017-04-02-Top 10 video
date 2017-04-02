@@ -1,14 +1,16 @@
----
-layout: post
-title:  "Top 10 video"
-date:   2017-04-02
-tags: 
-    - Carrie Fisher
-    - video
----
 
-Toto video dobře shrnuje život Carrie Fisher a uvádí zajimavá fakta.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Top 10 věcí o Carrie Fisher</title>
+  <meta charset="utf-8">
+</head>
+<body>
+	<h1> Top 10 věcí o Carrie Fisher </h1>
 
-## Top 10 věcí o Carrie Fisher
+<p> Toto video dobře shrnuje život Carrie Fisher a uvádí zajimavá fakta.
+</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NqBTgMkBU38' frameborder='0' allowfullscreen></iframe></div>
+</body>
+</html>
