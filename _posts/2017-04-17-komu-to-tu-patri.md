@@ -7,8 +7,6 @@ tags:
     - motivace
 ---
 
-#Komu to tu patří
-
 Naše skupina má celkem tři členy, totiž abych byla přesná, členky. Dohromady nás spojil náš zájem o téma Hippies. Rozhodly jsme sepsat pár slov, aby bylo trochu jasnější, co jsme vlastně zač.
 
 Ahoj, já se jmenuji **Soňa**, jsem starší než většina mých spolužáků, ale nevypadám na to . Mám ráda svou rodinu, volejbal, halušky s brynzou a přírodu. Ráda řídím auto a nerada vařím.  
