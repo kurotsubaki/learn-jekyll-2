@@ -11,14 +11,12 @@ color: black;
   text-align:center;
   font-size: 250%;
  font-style: italic
-}
+
 body {
 
   background: url('https://images.designtrends.com/wp-content/uploads/2016/03/30103909/Hippie-Computer-Wallpaper.jpg')
-	 
-  
 
-}
+}	 
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
