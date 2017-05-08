@@ -2,10 +2,11 @@
 <html>
 <head>
   <title>Zánik Hippies aneb proč zhasly jointy?</title>
+color: black; 
   <meta charset="utf-8">
   <style>
     h1 {
-  color: red;
+  color: black;
   font-family: "arial";
   text-align:center;
   font-size: 250%;
@@ -13,7 +14,7 @@
 }
 body {
 
-  background: url('http://www.vendyatelier.cz/sites/default/files/styles/galerie-nahled/public/images/hippies.jpg?itok=QUcb0T6a')
+  background: url('https://www.designtrends.com/graphic-web/backgrounds/hippie-background.html')
 
 }
 .wrapper {
