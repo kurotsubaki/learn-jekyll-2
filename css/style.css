@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zánik Hippies aneb proč zhasly jointy?</title>
+  <meta charset="utf-8">
+  <style>
+    h1 {
+  color: red;
+  font-family: "arial";
+  text-align:center;
+  font-size: 250%;
+ font-style: italic
+}
+body {
+
+  background: url('http://www.vendyatelier.cz/sites/default/files/styles/galerie-nahled/public/images/hippies.jpg?itok=QUcb0T6a')
+
+}
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
