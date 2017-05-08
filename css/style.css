@@ -13,63 +13,9 @@ color: black;
  font-style: normal }
  h1 { 
       color: black; 
+	 font-size: 150%;
       }
-  h1 {
-    text-decoration: underline;
-}
- h1 {
-    text-align: center;
-}
-
-h2 {
-    text-align: center;
-}
-
-h3 {
-    text-align: center;
-}
-p {
-    font-family: "Times New Roman", Times, serif;
-}
-      
-h1 {
-    font-size: 40px;
-}
-
-h2 {
-    font-size: 30px;
-}
-
-p {
-    font-size: 16px; 
-}
-
-p.normal {
-    font-weight: normal;
-} 
-      body {
-   
-}
-p {
-    margin-top: 30px; 
-    margin-bottom: 20px; 
-    margin-right: 30px;
-    margin-left: 30px;
-}     
-p {
-    padding: 5px 5px 5px 5px;
-}
- p.big {
-    line-height: 80px;
-} 
-div {
-    text-align:justify;
-} 
-p.main {
-    text-align: justify;
-}      
-  </style>
-</head>
+ 
 
 body {
 
