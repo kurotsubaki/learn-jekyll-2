@@ -6,7 +6,7 @@ color: black;
   <meta charset="utf-8">
   <style>
     h1 {
-  color: black;
+  color: black; 
   font-family: "arial";
   text-align:center;
   font-size: 250%;
@@ -14,7 +14,7 @@ color: black;
 }
 body {
 
-  background: url('https://www.designtrends.com/graphic-web/backgrounds/hippie-background.html')
+  background: url('https://images.designtrends.com/wp-content/uploads/2016/03/30103909/Hippie-Computer-Wallpaper.jpg')
 
 }
 .wrapper {
